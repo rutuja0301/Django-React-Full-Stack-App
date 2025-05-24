@@ -29,5 +29,5 @@ Deployment & CI/CD: Choreo.dev
 
 ORM: SQLAlchemy
 
-🌐 Deployment with Choreo.dev
+🌐 Deployment with Choreo.dev: 
 This project is deployed using Choreo.dev — a modern platform for building, deploying, and managing services. The application is continuously integrated and deployed using Choreo's cloud-native CI/CD pipelines, offering an efficient and developer-friendly workflow.
